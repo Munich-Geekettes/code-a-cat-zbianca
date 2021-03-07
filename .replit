@@ -1,0 +1,5 @@
+language = "java10"
+#TODO: Comment line 3 and uncomment line 5
+run = "cd session_1 && javac Main.java Cat.java View.java && java Main"
+
+#run = "cd session_2 && javac Main.java Cat.java View.java HTTPClient.java && java Main"
